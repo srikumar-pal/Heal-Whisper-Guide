@@ -1,0 +1,6 @@
+{
+  "name": "Heal-Whisper-Guide",
+  "description": "AI-Powered Digital Health Monitoring Platform featuring MedPin health tracking, MedDroid voice assistant, VADG report analyzer, medicine reminders, and clinical wellness intelligence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
