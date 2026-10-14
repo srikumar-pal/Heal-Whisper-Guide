@@ -116,28 +116,67 @@ PORT=3000
 
 ---
 
-## Local Development & Running
+## How to Run the Project Using GitHub Codespaces
 
-1. **Install dependencies**:
-   ```bash
-   npm install
-   ```
+Step 1: Open the Repository
 
-2. **Start Development Server**:
-   ```bash
-   npm run dev
-   ```
-   The Express backend will start on port 3000 with Vite middlewares mounted. Open `http://localhost:3000`.
+Sign in to GitHub.
 
-3. **Production Build**:
-   ```bash
-   npm run build
-   ```
+Open the Heal-Whisper-Guide repository.
 
-4. **Run Production Server**:
-   ```bash
-   npm start
-   ```
+Click the green Code button.
+
+Select the Codespaces tab.
+
+Open an existing Codespace, or click Create codespace on main.
+
+Step 2: Open the Terminal
+
+Once the Codespace has loaded:
+
+Open the terminal from Terminal → New Terminal.
+
+Confirm that the terminal is inside the project directory.
+
+Expected directory:
+
+/workspaces/Heal-Whisper-Guide
+
+If necessary, run:
+
+cd /workspaces/Heal-Whisper-Guide
+
+Step 3: Install Dependencies
+
+Run this command the first time you set up the project:
+
+npm install --legacy-peer-deps
+
+Wait for the installation to finish.
+
+Important: The --legacy-peer-deps option is currently needed to work around the project's peer dependency conflict. If dependencies change, the team should review and resolve that conflict rather than automatically adding --force.
+
+Step 4: Start the Development Server
+
+Run:
+
+npm run dev -- --host 0.0.0.0
+
+Wait until Vite displays a local development URL, usually:
+
+http://localhost:5173/
+
+Step 5: Open the Application
+
+Open the Ports tab in Codespaces.
+
+Find port 5173.
+
+Click Open in Browser.
+
+The Heal-Whisper-Guide application should now open in your browser.
+
+If the application uses a different port, open the port displayed by the terminal.
 
 ---
 
