@@ -184,5 +184,14 @@ If the application uses a different port, open the port displayed by the termina
 
 *Heal-Whisper-Guide is designed for wellness monitoring, vital telemetry tracking, and patient education. It is NOT a certified medical device and does NOT replace the clinical judgment, diagnosis, or treatment plan of a licensed medical professional. For severe or life-threatening symptoms, immediately contact local emergency services (911, 112, or local emergency number).*
 ---
-<img width="1897" height="896" alt="Screenshot 2026-10-14 175054" src="https://github.com/user-attachments/assets/13c54752-9fde-46a1-bbb6-9196e1d87f69" />
+<img width="1867" height="911" alt="Screenshot 2026-10-14 174914" src="https://github.com/user-attachments/assets/e7a53170-03c7-499a-aed2-1f1eaee9eba9" />
+<img width="1882" height="897" alt="Screenshot 2026-10-14 174943" src="https://github.com/user-attachments/assets/ea1678b1-6035-4c39-ad5e-d331ae168e06" />
+<img width="1905" height="912" alt="Screenshot 2026-10-14 175014" src="https://github.com/user-attachments/assets/4d114f28-b5ff-417e-9e29-2a4c097a56e9" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-14 175035" src="https://github.com/user-attachments/assets/3ae26938-8abc-4e5c-8ab7-f7a2bfa796ff" />
+<img width="1897" height="896" alt="Screenshot 2026-10-14 175054" src="https://github.com/user-attachments/assets/eaaa6eb1-0c6c-425f-abc9-83ef3c9085f0" />
+
+
+
+
+
 
