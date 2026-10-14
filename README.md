@@ -183,3 +183,6 @@ If the application uses a different port, open the port displayed by the termina
 ## Clinical Safety Notice
 
 *Heal-Whisper-Guide is designed for wellness monitoring, vital telemetry tracking, and patient education. It is NOT a certified medical device and does NOT replace the clinical judgment, diagnosis, or treatment plan of a licensed medical professional. For severe or life-threatening symptoms, immediately contact local emergency services (911, 112, or local emergency number).*
+---
+<img width="1897" height="896" alt="Screenshot 2026-10-14 175054" src="https://github.com/user-attachments/assets/13c54752-9fde-46a1-bbb6-9196e1d87f69" />
+
